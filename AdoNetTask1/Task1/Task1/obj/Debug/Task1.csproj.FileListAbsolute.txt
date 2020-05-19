@@ -1,0 +1,7 @@
+C:\Users\UlitinEs\source\repos\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\UlitinEs\source\repos\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\UlitinEs\source\repos\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\UlitinEs\source\repos\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\UlitinEs\source\repos\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\UlitinEs\source\repos\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\UlitinEs\source\repos\Task1\Task1\obj\Debug\Task1.pdb
