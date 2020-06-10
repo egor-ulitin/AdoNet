@@ -1,0 +1,7 @@
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\obj\Debug\Task3_Ado.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\obj\Debug\Task3_Ado.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\bin\Debug\Task3_Ado.exe.config
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\bin\Debug\Task3_Ado.exe
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\bin\Debug\Task3_Ado.pdb
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\obj\Debug\Task3_Ado.exe
+C:\Users\Егор\source\repos\Task3_Ado\Task3_Ado\obj\Debug\Task3_Ado.pdb
