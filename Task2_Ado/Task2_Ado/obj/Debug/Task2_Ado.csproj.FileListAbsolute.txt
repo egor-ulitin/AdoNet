@@ -1,0 +1,7 @@
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\bin\Debug\Task2_Ado.exe.config
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\bin\Debug\Task2_Ado.exe
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\bin\Debug\Task2_Ado.pdb
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\obj\Debug\Task2_Ado.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\obj\Debug\Task2_Ado.exe
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\obj\Debug\Task2_Ado.pdb
+C:\Users\Егор\source\repos\Task2_Ado\Task2_Ado\obj\Debug\Task2_Ado.csproj.CoreCompileInputs.cache
