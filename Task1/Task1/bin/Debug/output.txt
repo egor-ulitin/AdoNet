@@ -1,0 +1,4 @@
+Center of round: 2 3
+Radius: 3
+S: 28,2743338823081
+Length of round: 18,8495559215388
